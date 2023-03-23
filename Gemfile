@@ -1,8 +1,10 @@
 # frozen_string_literal: true
 
 source "https://rubygems.org"
+gem 'jekyll-compose', group: [:jekyll_plugins]
 
 gem "jekyll-theme-chirpy", "~> 5.6", ">= 5.6.0"
+# gem 'eventmachine', :git => 'https://github.com/eventmachine/eventmachine', :branch => 'master'
 
 group :test do
   gem "html-proofer", "~> 3.18"
