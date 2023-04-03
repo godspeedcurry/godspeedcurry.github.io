@@ -47,9 +47,11 @@ This work is published under [MIT][mit] License.
 
 ## Development
 
+本地调试，带热更新
 ```
-
+bundle exec jekyll s --livereload
 ```
+新建博客
 ```
 bundle exec jekyll post "My New Post"
 ```
