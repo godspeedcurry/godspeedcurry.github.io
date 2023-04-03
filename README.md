@@ -47,6 +47,12 @@ This work is published under [MIT][mit] License.
 
 ## Development
 
+mac上开发不要用系统自带的ruby和gem 很多坑。 用brew来装
+```
+brew install ruby gem
+ruby --version && which ruby
+gem --version && which gem
+```
 本地调试，带热更新
 ```
 bundle exec jekyll s --livereload
