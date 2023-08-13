@@ -2,8 +2,8 @@
 layout: post
 title: php code review - cmseasy
 date: 2023-06-05 17:46 +0800
-categories: [ctf, web, code-review]
-tag: [web, php]
+categories: [ctf, web]
+tag: [web, php, code-review]
 ---
 
 ## cmseasy

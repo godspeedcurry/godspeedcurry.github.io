@@ -49,7 +49,8 @@ This work is published under [MIT][mit] License.
 
 mac上开发不要用系统自带的ruby和gem 很多坑。 用brew来装
 ```
-brew install ruby gem
+brew install ruby
+sudo gem update --system
 ruby --version && which ruby
 gem --version && which gem
 ```

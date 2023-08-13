@@ -9,167 +9,227 @@
 
 <url>
   <loc>https://godspeedcurry.github.io/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://godspeedcurry.github.io/categories/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://godspeedcurry.github.io/tags/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://godspeedcurry.github.io/archives/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://godspeedcurry.github.io/about/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://godspeedcurry.github.io/posts/nacos-pentest-jasypt/</loc>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://godspeedcurry.github.io/posts/php-code-review-rockoa/</loc>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://godspeedcurry.github.io/posts/php-code-review-cmseasy/</loc>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://godspeedcurry.github.io/posts/ciscn2023-backendservice/</loc>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://godspeedcurry.github.io/posts/defcon2023-quals-artifact-bunker/</loc>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://godspeedcurry.github.io/posts/ciscn2023-deserbug/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://godspeedcurry.github.io/posts/ciscn2023-reading/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://godspeedcurry.github.io/posts/pwnable-kr-syscall/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://godspeedcurry.github.io/posts/pwnable-kr-brain-fuck/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://godspeedcurry.github.io/posts/d3ctf2023-d3forest/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://godspeedcurry.github.io/posts/d3ctf2023-d3ezjava/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://godspeedcurry.github.io/posts/d3ctf2023-d3dolphin/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://godspeedcurry.github.io/posts/aliyunctf2023-bypassit2/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://godspeedcurry.github.io/posts/aliyunctf2023-bypassit1/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://godspeedcurry.github.io/posts/pwnable-kr-fix/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://godspeedcurry.github.io/page2/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://godspeedcurry.github.io/posts/d3ctf2023-d3ezjava/</loc>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://godspeedcurry.github.io/tags/web/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://godspeedcurry.github.io/tags/java/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://godspeedcurry.github.io/tags/pwnable-kr/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://godspeedcurry.github.io/tags/stack/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://godspeedcurry.github.io/tags/jackson/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://godspeedcurry.github.io/tags/fastjson/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://godspeedcurry.github.io/tags/hessian/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://godspeedcurry.github.io/tags/lfi/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://godspeedcurry.github.io/tags/php/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://godspeedcurry.github.io/tags/rasp/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
+  <loc>https://godspeedcurry.github.io/tags/pwnable-kr/</loc>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://godspeedcurry.github.io/tags/stack/</loc>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://godspeedcurry.github.io/tags/jackson/</loc>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://godspeedcurry.github.io/tags/fastjson/</loc>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://godspeedcurry.github.io/tags/flask/</loc>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://godspeedcurry.github.io/tags/golang/</loc>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://godspeedcurry.github.io/tags/hessian/</loc>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://godspeedcurry.github.io/categories/ctf/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://godspeedcurry.github.io/categories/pwn/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://godspeedcurry.github.io/categories/web/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://godspeedcurry.github.io/categories/pentest/</loc>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://godspeedcurry.github.io/tags/kernel/</loc>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://godspeedcurry.github.io/tags/lfi/</loc>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://godspeedcurry.github.io/tags/nacos/</loc>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://godspeedcurry.github.io/tags/pwn/</loc>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://godspeedcurry.github.io/tags/rasp/</loc>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://godspeedcurry.github.io/tags/shellcode/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://godspeedcurry.github.io/tags/xctf/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://godspeedcurry.github.io/posts/d3ctf2023-d3dolphin/</loc>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://godspeedcurry.github.io/posts/aliyunctf2023-bypassit2/</loc>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://godspeedcurry.github.io/posts/aliyunctf2023-bypassit1/</loc>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://godspeedcurry.github.io/posts/pwnable-kr-fix/</loc>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://godspeedcurry.github.io/posts/xctf2022-final-web-solution/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://godspeedcurry.github.io/posts/pwnable-kr-simple-login/</loc>
-  <lastmod>2023-05-30T14:46:24+00:00</lastmod>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://godspeedcurry.github.io/categories/code-review/</loc>
+  <lastmod>2023-07-12T12:53:42+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 
