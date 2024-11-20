@@ -37,7 +37,9 @@ diskgenius可以将vmdk挂载，从而进行文件读写，好处是浏览十分
 因此 在使用DG时，最好修改passwd，修改这个文件是没啥问题的
 
 ## 法二：使用恢复模式
-在引导页界面，立马按`e`，编辑grub的config，将`ro`及之后的内容全部换成`rw init=/bin/bash`
+* 用DG修改shadow-，然后进恢复模式
+* 恢复模式：在引导页界面，立马按`e`，编辑grub的config，将`ro`及之后的内容全部换成`rw init=/bin/bash`，`ctrl+x`后即可进入恢复模式，将shadow-拷贝至shadow
+* `/sbin/reboot -f`
 
 ## 法三： 使用vmware workstation挂载一块磁盘
 
