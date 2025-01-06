@@ -2,6 +2,8 @@
 layout: post
 title: pwnable.kr tiny_easy
 date: 2024-12-31 14:57 +0800
+categories: [ctf,pwn]
+tag: [pwn, stack]
 ---
 ## 题目描述
 题目文件只有90字节，拖IDA看一下。
